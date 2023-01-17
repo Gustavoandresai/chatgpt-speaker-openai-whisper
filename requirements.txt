@@ -1,0 +1,8 @@
+numpy~=1.24.1
+SpeechRecognition
+pydub~=0.25.1
+git+https://github.com/openai/whisper.git
+--extra-index-url https://download.pytorch.org/whl/cu113
+torch~=1.13.1
+pyttsx3~=2.90
+openai~=0.26.1
